@@ -1,4 +1,4 @@
-# addon_l18n_address_format
+# concrete5 Addon: Localized Address Format
 
 A helper class to print Localized Address from AddressValue object
 
